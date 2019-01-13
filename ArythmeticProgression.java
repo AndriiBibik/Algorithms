@@ -24,7 +24,6 @@ public class ArythmeticProgression {
         return n*(n+1)/2;
         
     }
-    
 //    private static void calcMax() {
 //        for (int i = 65000; i < 66000; i++){
 //            if(sum(i) < 0) {
